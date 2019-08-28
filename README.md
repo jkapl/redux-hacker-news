@@ -1,2 +1,2 @@
-# react-redux-boilerplate
-Boilerplate React and Redux app setup
+# redux-hacker-news
+Hacker News clone built with Redux
